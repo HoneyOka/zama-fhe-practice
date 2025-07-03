@@ -8,3 +8,5 @@ Belajar GitHub & FHE secara praktis.
 FHE membuat data tetap terenkripsi bahkan saat diproses. Luar biasa!
 ## Commit 5  
 Commit kelima berhasil! Siap submit ke Zama dan jadi kontributor aktif 🚀
+## Commit 6
+ayolah ini udah commit ke 6
