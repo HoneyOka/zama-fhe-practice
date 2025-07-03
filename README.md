@@ -6,3 +6,5 @@ Percobaan commit kedua oleh HoneyOka untuk program Zama Creator.
 Belajar GitHub & FHE secara praktis.
 ## Commit 4  
 FHE membuat data tetap terenkripsi bahkan saat diproses. Luar biasa!
+## Commit 5  
+Commit kelima berhasil! Siap submit ke Zama dan jadi kontributor aktif 🚀
